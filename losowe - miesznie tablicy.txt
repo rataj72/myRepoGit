@@ -1,0 +1,42 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace myTestCSharp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] tab1 = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+
+            int[] shakeMyTable(int[] tab)
+            {
+                Random rand = new Random();
+                int liczbaPrzesuniec = rand.Next(1, 10);
+                int chwilowa = 0;
+                for (int i = 0; i < tab.Length; i += 1)
+                {
+                    chwilowa = tab[i];
+                    tab[i] = tab[liczbaPrzesuniec];
+                    tab[liczbaPrzesuniec] = chwilowa;
+                    if (liczbaPrzesuniec >= 3)
+                    {
+                        liczbaPrzesuniec -= 3;
+                    }
+                }
+                return tab;
+            }
+
+            tab1 = shakeMyTable(tab1);
+            
+            foreach (int a in tab1)
+            {
+                Console.WriteLine(tab1[a-1]);
+            }
+            Console.ReadLine();
+        }
+    }
+}
