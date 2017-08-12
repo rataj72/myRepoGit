@@ -25,9 +25,9 @@ namespace s
         {
             int licznik = 0;
             Color color =new Color();
-            for (int i = 0; i < 8; i++)
+            for (int i = 0; i < 9; i++)
             {
-                for (int j = 0; j < 8; j++)
+                for (int j = 0; j < 9; j++)
                 {
                     if (licznik % 2 == 0)
                     {
@@ -38,11 +38,11 @@ namespace s
                         color = Color.Black;
                     }
                     licznik++;
-                    Controls.Add(field.CreateButton(j*50, i*50, 50, 50, color));
+                    Button button = field.CreateButton(j * 50, i * 50, 50, 50);
+                    button.BackColor = color;
+                    Controls.Add(button);
                 }
-                licznik++;
             }
-            
         }
     }
 }
