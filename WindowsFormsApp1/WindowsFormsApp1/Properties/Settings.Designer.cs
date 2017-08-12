@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace szachy.Properties
+namespace WindowsFormsApp1.Properties
 {
 
 

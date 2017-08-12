@@ -8,20 +8,22 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace szachy
+namespace WindowsFormsApp1
 {
     public partial class Form1 : Form
     {
+        myButton Button = new myButton();
+
         public Form1()
         {
             InitializeComponent();
-            CreateButton();
+            makeIt();
         }
 
-        public void CreateButton()
+        public void makeIt()
         {
-            Button button = new Button();
-            Controls.Add(button);
+            Controls.Add( Button.makeButton(50,50,0,0));
+            Controls.Add( Button.makeButton(50,50,100,100));
         }
     }
 }

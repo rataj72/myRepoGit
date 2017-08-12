@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("szachy")]
+[assembly: AssemblyTitle("s")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Acer")]
-[assembly: AssemblyProduct("szachy")]
+[assembly: AssemblyProduct("s")]
 [assembly: AssemblyCopyright("Copyright © Acer 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("7d918e2e-6ba0-4fa0-a4d8-1a02c57f1124")]
+[assembly: Guid("db74f572-f999-4eb3-bd41-3c295f3ef392")]
 
 // Version information for an assembly consists of the following four values:
 //
