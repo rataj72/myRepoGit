@@ -47,15 +47,11 @@ namespace s
 
         public void makeFigures()
         {
-            
-            Button Rook1 = field.CreateFigureButton(0, 0, 50, 50,"WhiteROOK");
-            Rook1.BackgroundImage = Image.FromFile(@"C:\Users\piotr\Desktop\grafika_system\king.png");
-
-            Button figura2 = field.CreateFigureButton(400, 400, 50, 50,"BlackROOK");
+            Button figura1 = field.CreateFigureButton(250, 50, 50, 50);
+            figura1.BackgroundImage = Image.FromFile(@"C:\Users\piotr\Desktop\grafika_system\king.png");
+            Button figura2 = field.CreateFigureButton(50, 250, 50, 50);
             figura2.BackgroundImage = Image.FromFile(@"C:\Users\piotr\Desktop\grafika_system\king.png");
-
-
-            Controls.Add(Rook1);
+            Controls.Add(figura1);
             Controls.Add(figura2);
         }
     }
