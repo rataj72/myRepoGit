@@ -17,9 +17,10 @@ namespace WindowsFormsApp1
         public Form1()
         {
             InitializeComponent();
-            Button  = new myButton(this);
+            //Button  = new myButton(this);
            // makeIt();
-            Button.makeButton(50,50,0,0);
+            new myButton(this).makeButton(100, 100, 100, 100);
+            //Button.makeButton(50,50,0,0);
         }
 
         public void makeIt()
