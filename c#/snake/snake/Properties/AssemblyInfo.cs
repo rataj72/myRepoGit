@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("snake")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Acer")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("snake")]
-[assembly: AssemblyCopyright("Copyright © Acer 2017")]
+[assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("4fb8ca6d-ded0-4575-a9ba-a1f55d327f62")]
+[assembly: Guid("676728dd-a826-4473-ac02-4ca363c0404f")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using snake.factory;
 
 namespace snake
 {
@@ -15,8 +16,7 @@ namespace snake
         public Form1()
         {
             InitializeComponent();
-            
+            ButtonFactory.CreateItem<Button>(this, 50, 50, WhatItem.SnakeHead);
         }
-        public 
     }
 }
