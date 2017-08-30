@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBpostgres", "DBpostgres\DBpostgres.csproj", "{43B2B19F-12A2-4A61-9726-213D3806E0E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{6CFBE657-9A2A-4679-AF78-2DF9F25C24AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43B2B19F-12A2-4A61-9726-213D3806E0E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43B2B19F-12A2-4A61-9726-213D3806E0E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43B2B19F-12A2-4A61-9726-213D3806E0E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43B2B19F-12A2-4A61-9726-213D3806E0E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CFBE657-9A2A-4679-AF78-2DF9F25C24AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CFBE657-9A2A-4679-AF78-2DF9F25C24AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CFBE657-9A2A-4679-AF78-2DF9F25C24AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CFBE657-9A2A-4679-AF78-2DF9F25C24AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88D99A83-1A3A-4C1E-A216-558275272C4E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<transfers>
+    <transfer bank="ing">
+        <account>3256984365</account>
+        <owner>radek</owner>
+        <sum>444</sum>
+    </transfer>
+    <transfer bank="pko">
+        <account>97874654321</account>
+        <owner>adam</owner>
+        <sum>333</sum>
+    </transfer>
+    <transfer bank="mBank">
+        <account>654879132</account>
+        <owner>peter</owner>
+        <sum>222</sum>
+    </transfer>
+    <transfer bank="zara">
+        <account>789654123</account>
+        <owner>julia</owner>
+        <sum>123</sum>
+    </transfer>
+</transfers>
