@@ -1,0 +1,5 @@
+C:\Users\Piotr\Desktop\myRepo\c#\fabryka\fabryka\fabryka\obj\Debug\fabryka.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\myRepo\c#\fabryka\fabryka\fabryka\bin\Debug\fabryka.dll
+C:\Users\Piotr\Desktop\myRepo\c#\fabryka\fabryka\fabryka\bin\Debug\fabryka.pdb
+C:\Users\Piotr\Desktop\myRepo\c#\fabryka\fabryka\fabryka\obj\Debug\fabryka.dll
+C:\Users\Piotr\Desktop\myRepo\c#\fabryka\fabryka\fabryka\obj\Debug\fabryka.pdb

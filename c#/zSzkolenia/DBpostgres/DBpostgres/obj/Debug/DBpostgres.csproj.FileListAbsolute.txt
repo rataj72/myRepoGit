@@ -1,0 +1,9 @@
+C:\Users\Piotr\Desktop\myRepo\c#\zSzkolenia\DBpostgres\DBpostgres\bin\Debug\DBpostgres.dll
+C:\Users\Piotr\Desktop\myRepo\c#\zSzkolenia\DBpostgres\DBpostgres\bin\Debug\DBpostgres.pdb
+C:\Users\Piotr\Desktop\myRepo\c#\zSzkolenia\DBpostgres\DBpostgres\bin\Debug\Npgsql.dll
+C:\Users\Piotr\Desktop\myRepo\c#\zSzkolenia\DBpostgres\DBpostgres\bin\Debug\Npgsql.xml
+C:\Users\Piotr\Desktop\myRepo\c#\zSzkolenia\DBpostgres\DBpostgres\obj\Debug\DBpostgres.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Desktop\myRepo\c#\zSzkolenia\DBpostgres\DBpostgres\obj\Debug\DBpostgres.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\myRepo\c#\zSzkolenia\DBpostgres\DBpostgres\obj\Debug\DBpostgres.dll
+C:\Users\Piotr\Desktop\myRepo\c#\zSzkolenia\DBpostgres\DBpostgres\obj\Debug\DBpostgres.pdb
+C:\Users\Piotr\Desktop\myRepo\c#\zSzkolenia\DBpostgres\DBpostgres\bin\Debug\Mono.Security.dll

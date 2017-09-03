@@ -1,0 +1,9 @@
+C:\Users\Piotr\Desktop\mySnake\mySnake\bin\Debug\mySnake.exe.config
+C:\Users\Piotr\Desktop\mySnake\mySnake\bin\Debug\mySnake.exe
+C:\Users\Piotr\Desktop\mySnake\mySnake\bin\Debug\mySnake.pdb
+C:\Users\Piotr\Desktop\mySnake\mySnake\obj\Debug\mySnake.Form1.resources
+C:\Users\Piotr\Desktop\mySnake\mySnake\obj\Debug\mySnake.Properties.Resources.resources
+C:\Users\Piotr\Desktop\mySnake\mySnake\obj\Debug\mySnake.csproj.GenerateResource.Cache
+C:\Users\Piotr\Desktop\mySnake\mySnake\obj\Debug\mySnake.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\mySnake\mySnake\obj\Debug\mySnake.exe
+C:\Users\Piotr\Desktop\mySnake\mySnake\obj\Debug\mySnake.pdb

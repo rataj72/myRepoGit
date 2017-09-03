@@ -1,0 +1,6 @@
+C:\Users\Piotr\Desktop\myRepo\c#\zSzkolenia\XMLtakeingText\XMLtakeingText\bin\Debug\XMLtakeingText.dll
+C:\Users\Piotr\Desktop\myRepo\c#\zSzkolenia\XMLtakeingText\XMLtakeingText\bin\Debug\XMLtakeingText.pdb
+C:\Users\Piotr\Desktop\myRepo\c#\zSzkolenia\XMLtakeingText\XMLtakeingText\obj\Debug\XMLtakeingText.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Desktop\myRepo\c#\zSzkolenia\XMLtakeingText\XMLtakeingText\obj\Debug\XMLtakeingText.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\myRepo\c#\zSzkolenia\XMLtakeingText\XMLtakeingText\obj\Debug\XMLtakeingText.dll
+C:\Users\Piotr\Desktop\myRepo\c#\zSzkolenia\XMLtakeingText\XMLtakeingText\obj\Debug\XMLtakeingText.pdb
