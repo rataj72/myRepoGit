@@ -1,0 +1,13 @@
+﻿@model WebApp.Models.MyModelBase
+
+@foreach (var i in Model.DropList)
+{ 
+    <div>
+    @Html.Raw("<div>" + i.Value  + "<pre>             >" + "bardzo ładny tekst ................." + "</div>   ")
+        
+        <br/>
+        <br/>
+        
+    </div>
+}
+

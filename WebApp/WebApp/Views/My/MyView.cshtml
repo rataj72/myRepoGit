@@ -1,0 +1,42 @@
+﻿@model WebApp.Models.MyModelBase 
+@{
+    ViewBag.Title = "MyView";
+}
+
+<h2>MyView</h2>
+
+@Model.text  ____  @Model.number
+
+<br />
+<br />
+<br />
+
+@using (Html.BeginForm("MyView", "My", FormMethod.Post))
+{
+    <div>
+        @Html.TextBoxFor(model => model.number, new {placeholder = "jestem", title = "wprowadz cyfry", pattern = "[0-9]{2,}"})
+    </div>
+
+    <br />
+    <br />
+
+    <div>@Html.DropDownListFor(item => item.DrooopString, Model.DropList)</div>
+    <br />
+    <br />
+
+    <input type="submit" name="nameOfButton" value="pocisnij" />
+    <br />
+    <br />
+    <p><a class="btn btn-default" href="https://google.com">Learn more </a></p>
+    <br/>
+    <br/>
+
+    foreach (var i in Model.DropList)
+    { 
+
+        @Html.Raw("<div>" + i.Text  + "<pre>             >" + "bardzo ładny tekst ................." + "</div>   ");
+    }
+
+    //    @Model.DropList
+
+}
