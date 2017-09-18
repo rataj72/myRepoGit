@@ -22,7 +22,7 @@ namespace XMLtakeingText.Logic
     [XmlRoot("transfers")]
     public class Transfers
     {
-        [XmlArray("transfer")]
+        [XmlElement("transfer")]
         public Transfer[] TransfersList { get; set; }
     }
 }

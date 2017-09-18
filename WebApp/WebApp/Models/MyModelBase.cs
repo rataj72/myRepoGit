@@ -8,6 +8,11 @@ namespace WebApp.Models
     {
         public string text { get { return "ala ma kota_  "; } set{} }
 
+        public void doIt()
+        {
+            int a = 4;
+        }
+
         public int number { get; set; }
 
         public string innyText { get; set; }
