@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("FoXdb")]
+[assembly: AssemblyTitle("OakieDokie")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Acer")]
-[assembly: AssemblyProduct("FoXdb")]
-[assembly: AssemblyCopyright("Copyright © Acer 2017")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("OakieDokie")]
+[assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("46f36b2a-bd40-4266-9b78-cde18aba1f66")]
+[assembly: Guid("4aa11c37-9b82-4e72-8b5b-f8d3eb1f2887")]
 
 // Version information for an assembly consists of the following four values:
 //
